@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Short-Link",
+    "name": "Short-Link Helper Extension",
     "version": "1.0",
     "permissions": [
       "scripting",
@@ -18,7 +18,7 @@
         "suggested_key": {
           "default": "Ctrl+Q"
         },
-        "description": "Send page HTML to Python server"
+        "description": "Helper Extension For ShorLink"
       }
     }
   }
